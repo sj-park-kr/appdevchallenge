@@ -1,8 +1,8 @@
-# PRD: 차량 반려 캐릭터 (가칭)
+# PRD: 차마고찌 (Carmagotchi) — 차량 반려 캐릭터
 
 - 작성: 2026-10-23 · 상태: **초안 v0.1** (법인 운행기록부에서 전환, 이전 PRD는 [research/archive/PRD-fleet-log-v0.1.md](research/archive/PRD-fleet-log-v0.1.md))
 - 근거: [research/car-pet-business.md](research/car-pet-business.md)(사업성), [research/pain-points.md](research/pain-points.md) ①②(불편), [research/pleos-dev-guide.md](research/pleos-dev-guide.md)(플랫폼 제약)
-- 앱·캐릭터 이름 미정 (블라인드 심사: 문서·화면에 실명·소속 금지)
+- 앱 이름: 한글 **차마고찌**, 영문 **Carmagotchi** (차·car + 다마고치, 10/23 사용자 결정). 캐릭터 이름은 미정 (블라인드 심사: 문서·화면에 실명·소속 금지)
 
 ## 1. 한 줄
 **우리 차에 사는 반려 캐릭터.** 차가 느끼는 것(급제동, 비, 배고픔, 아픔, 동승자)을 캐릭터가 대신 표현하고, 차와 함께 달린 거리만큼 자란다.
@@ -82,7 +82,7 @@
 | 항목 | 다음 행동 |
 |---|---|
 | 캐릭터 정체·이름·그림체 | 결정 필요 (동물? 차 요정? 차종별 다른 성격?) |
-| 앱 이름 | 다시 작명 |
+| 앱 이름 | ✅ 차마고찌 · Carmagotchi (상표: "다마고치"와 유사 여부는 출시 전 검토) |
 | 급제동 판정 기준 | 에뮬레이터는 속도 카드가 없어 브레이크 % + 조향으로 시작 |
 | Gleo가 에뮬레이터에 있나, 승인 절차 | 에뮬레이터 설치 후 확인, 설명회 질문 |
 | NOMI·포드 EcoGuide와의 차별점 문장 | 기획서에서 정리 |

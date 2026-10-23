@@ -1,22 +1,29 @@
 # TODO
 
-접수 마감: **2026-11-15(일) 23:59**
+접수 마감: **2026-11-15(일) 23:59** · 진행 상황: [진행상황.md](진행상황.md)
 
-- [x] ~~실제 인터뷰 3명~~ → 주변에 인터뷰이가 없어 **AI 페르소나 100명 패널로 대체** (10/23)
-  - 결과: [research/persona-panel.md](research/persona-panel.md) — A 유지, 타깃을 "정산하는 직장인 + 공용차 관리자"로 조정
-  - 실제 인터뷰 #1 기록: [research/interviews.md](research/interviews.md)
+- [ ] **불편 목록에서 아이디어 다시 발산** ← 다음 할 일
+  - 출발점: [research/pain-points.md](research/pain-points.md) 3절(패턴 5개)·4절(차 안 앱 관련성)
+  - 기존 후보(위기 가디언·멀미 케어)에 얽매이지 않기
+  - 결과는 [research/ideas.md](research/ideas.md)에 추가하고 7개 기준으로 채점
+  - 다른 탈것·공간에서 빌려온 후보 6개 추가됨 (10/23, [research/inspiration.md](research/inspiration.md)). 쓰기 전에 [요약] 인용 원문 대조 필요
+  - 에뮬레이터 확인 필요: 시트 위치로 운전자 교대 구분, 조회 API 갱신 주기, 제한속도 데이터 유무
 
-- [ ] **패널 가설을 실제 근거로 바꾸기** (기획서에 인용하려면 필수)
-  - 커뮤니티 원문: 블라인드·네이버 카페 "유류비 정산", "출장비 거리 증빙", "외근 교통비 청구"
-  - 그랜저 법인 등록 비중 원자료, 장기렌트사 법인 상품의 운행일지 제공 여부
-  - persona-panel.md 4절 마지막 표 참고
+- [ ] **불편 조사 보완** (필요하면)
+  - 해외(Reddit 차단됨), 맘카페·차종 동호회(로그인 필요), 고령 운전자 본인 목소리
 
-- [x] **Pleos Playground SDK 실제 상태 확인** (10/23 완료)
-  - Vehicle State · NaviHelper만 사용 가능, 나머지 4개는 준비 중
-  - 전체 API: [research/pleos-sdk-api.md](research/pleos-sdk-api.md)
+- [ ] **중복 확인**: 현대차 공모전 우수작 16개 내용 (최종 후보가 겹치지 않는지)
 
 - [ ] **온라인 설명회 다시보기 시청 → 요약 → 반영** (다시보기 공개 후)
-  - 다시보기 링크는 공모전 공지사항에서 확인
   - 요약은 `research/briefing-summary.md`에 정리 (심사 기준, 가산점, SDK 제약, Q&A)
-  - [research/sdk-feasibility.md](research/sdk-feasibility.md) 6절 질문 4가지 중 다시보기에서 답이 나온 것은 체크하고 해당 문서에 반영
+  - [research/sdk-feasibility.md](research/sdk-feasibility.md) 6절 질문 4가지 중 답이 나온 것은 반영
   - 답이 안 나온 질문은 appdevchallenge@hyundai-partners.com 으로 이메일 문의
+
+- [ ] **아이디어 확정 후 첫 개발 스파이크**: 에뮬레이터에서 핵심 차량 데이터가 실제로 읽히는지 확인
+
+## 완료
+- [x] Pleos Playground SDK 실제 상태 확인 (10/23) — [research/pleos-sdk-api.md](research/pleos-sdk-api.md)
+- [x] 실제 인터뷰 → 인터뷰이 부족으로 AI 페르소나 패널로 대체 (10/23)
+- [x] 유튜브 영상·댓글 분석 2회 (10/23) — [research/youtube-creators.md](research/youtube-creators.md)
+- [x] 커뮤니티 불편 조사 (10/23) — [research/pain-points.md](research/pain-points.md)
+- [x] ~~패널 가설을 실제 근거로 바꾸기~~ — 업무 운행 기록(A) 제외로 불필요

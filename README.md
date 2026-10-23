@@ -7,15 +7,19 @@ Pleos Connect(현대차그룹 인포테인먼트)용 차량 앱 공모전 준비
 - 사용 가능한 SDK: **Vehicle State, NaviHelper** (나머지 4개는 준비 중)
 
 ## 현재 상태
-- 유력 후보: **고속도로 위기 가디언**, **멀미 케어** (→ [research/ideas.md](research/ideas.md))
+- 불편 조사 완료 → 불편 기반으로 아이디어 재발산 예정 (→ [진행상황.md](진행상황.md))
+- 지금까지의 유력 후보: **고속도로 위기 가디언**, **멀미 케어** (→ [research/ideas.md](research/ideas.md))
 - 할 일: [TODO.md](TODO.md)
 
 ## 폴더 구조
 ```
 참가가이드_정리.md      공모전 규칙·일정·제출물·심사 기준 요약
+진행상황.md            지금까지 한 일과 결론 (처음 보는 사람은 여기부터)
 TODO.md                남은 할 일
 research/
-  ideas.md             아이디어 전체 목록과 점수 (출발점)
+  pain-points.md       커뮤니티 불편 조사 (원문 약 220개, 14개 유형)
+  raw/community/       불편 조사 원문 (출처 URL 포함)
+  ideas.md             아이디어 전체 목록과 점수
   idea-scorecard.md    채점 기준과 초기 후보 A~F 채점
   sdk-feasibility.md   SDK 제약·에뮬레이터·실현성
   pleos-sdk-api.md     SDK별 API 전체 목록

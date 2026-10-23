@@ -6,7 +6,9 @@
 | 작업 | 먼저 볼 파일 |
 |---|---|
 | 규칙·일정·제출물·심사 기준 | [참가가이드_정리.md](참가가이드_정리.md) |
+| 지금까지 한 일·결론 | [진행상황.md](진행상황.md) |
 | 지금 할 일 | [TODO.md](TODO.md) |
+| 사용자 불편 (원문 근거) | [research/pain-points.md](research/pain-points.md), 원문은 `research/raw/community/` |
 | 아이디어 현황·점수 | [research/ideas.md](research/ideas.md) → 상세는 표의 "출처" 열 |
 | 채점 기준 | [research/idea-scorecard.md](research/idea-scorecard.md) |
 | 기능이 SDK로 되는지 | [research/sdk-feasibility.md](research/sdk-feasibility.md), [research/pleos-sdk-api.md](research/pleos-sdk-api.md) |

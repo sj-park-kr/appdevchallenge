@@ -1,0 +1,44 @@
+# 아이디어 전체 목록 (2026-10-23 기준)
+
+> 여러 조사 문서에 흩어진 아이디어를 한곳에 모은 목록입니다. 점수는 공통 7개 기준(각 1~5점, 35점 만점)입니다: 차량특화성 · 창의성 · Pain Point · SDK·시연 · 사업성 · 현대차 방향 · PT "와".
+> 상세 근거는 "출처" 열의 문서를 보세요.
+
+## 지금 유력한 후보
+| 아이디어 | 한 줄 설명 | 점수 | 상태 | 출처 |
+|---|---|---|---|---|
+| **고속도로 위기 가디언** | 고속도로 정차·비상등을 감지하면 비트박스 순서를 음성 안내. 좌석에 남은 사람 경고, 위치 신고·무료 긴급견인 연결 | 29 | ⬆ 유력 | [brainstorm-wide](brainstorm-wide.md) W1, [youtube 7-4](youtube-creators.md) |
+| **멀미 케어** | 운전자는 못 느끼는 동승자 멀미를 차량 데이터로 줄임: 회전·감속 예고, 부드러운 운전 피드백, 회생제동 안내, 환기 알림 | 26 (가채점) | 🆕 신규 | [youtube 7-3](youtube-creators.md) |
+| **위기 가디언 + 멀미 케어** | "뒷좌석까지 챙기는 차": 매일 쓰는 멀미 케어 + 결정적 순간의 가디언 | 미채점 | 🆕 검토 | [youtube 7-6](youtube-creators.md) |
+
+## 보류·제외
+| 아이디어 | 한 줄 설명 | 점수 | 상태 | 출처 |
+|---|---|---|---|---|
+| 창밖 모험 동화 | 차량 신호(와이퍼·지시등·벨트)가 이야기 사건이 되는 뒷좌석 오디오 동화 | 31 | ⛔ 보류: 현대차 공모전 대상 '창밖동화'와 핵심 중복 | [brainstorm-panel](brainstorm-panel.md) I1 |
+| 업무 운행 자동 기록·정산 | 계기판 거리로 운행일지·출장비 정산 자동화 | 31 | ⛔ 사용자 제외 ("단순 기록해서 뭐해") | [idea-scorecard](idea-scorecard.md) A, [persona-panel](persona-panel.md) |
+| 와이퍼 날씨 지도 | 여러 차의 와이퍼·안개등·급제동으로 국지 날씨·위험 지도 | 29 | ⬇ 개인이 체감할 장면 약함, 데이터 수집 심사 리스크 | [brainstorm-wide](brainstorm-wide.md) W2 |
+| 초보 성장 RPG | 첫 고속도로·첫 빗길·첫 야간 운전 기념, 성장 기록 | 27 | ⬇ 아반떼 구매층 가격 민감, 안전운전 점수 예시와 겹침 | [brainstorm-panel](brainstorm-panel.md) I6 |
+| 고령 운전 컨디션 리포트 | 야간·급제동 패턴을 본인이 먼저 보고 가족과 공유 | 26 | 감시 논란 주의 | [brainstorm-wide](brainstorm-wide.md) W3 |
+| 경고등 번역기 | 경고등 의미 + 계속 가도 되는지 + 가까운 정비소 | 26 | ⬇ "이상징후 알림" 예시와 겹침, 리뷰 채널이 차량 관리 앱 개발 중 | [brainstorm-wide](brainstorm-wide.md) W10 |
+| 내 차 캐릭터 (다마고치) | 차량 상태·운전 습관을 캐릭터 감정으로 | 25 | | [brainstorm-panel](brainstorm-panel.md) I2 |
+| 사고 직후 도우미 | 경미 사고 체크리스트, 보험 접수 | 24 | 위기 가디언에 합침 | [brainstorm-wide](brainstorm-wide.md) W7 |
+| 드라이브 DJ | 비·터널·밤·도착에 맞춘 음악 연출 | 23 | 음원 라이선스 장벽 | [brainstorm-panel](brainstorm-panel.md) I4 |
+| 졸음 깨우는 말벗 | 장거리·야간에 음성 대화로 각성 | 23 | 차량 기본 기능(운전자 주의 경고)과 겹침, 음성 SDK 준비 중 | [brainstorm-panel](brainstorm-panel.md) I5 |
+| 동행 차량 에코 레이스 | 여러 차가 같이 갈 때 연비·안전 대결 (인터뷰 #1) | 22 | | [idea-scorecard](idea-scorecard.md) F |
+| 온 가족 오디오 퀴즈쇼 | 장거리에서 온 가족이 함께하는 음성 퀴즈 | 22 | 창밖동화와 일부 겹침 | [brainstorm-panel](brainstorm-panel.md) I11 |
+| 도착 시간 맞춤 픽업 주문 | ETA에 맞춰 매장 주문 | 22 | 차량 결제 서비스 있음 | [brainstorm-wide](brainstorm-wide.md) W6 |
+| EV 충전 대기 라운지 | 충전 시간 맞춤 휴식 모드 | 21 | 제어 SDK 준비 중, LG U+ 충전 시간 콘텐츠 선행 | [idea-scorecard](idea-scorecard.md) C |
+| 차량 관리 리포트 | 소모품·운전 습관 리포트 (인터뷰 #1) | 21 | 공식 예시와 겹침 | [idea-scorecard](idea-scorecard.md) B |
+| 이중주차 N단 알림 | N단 주차 감지 + 비대면 연락 | 21 | 안심번호 서비스 있음 | [brainstorm-wide](brainstorm-wide.md) W4 |
+| 탄소중립포인트 자동 인증 | 계기판 주행거리로 자동 인증 | 21 | 정부 연동 필요, 하이브리드 제외 | [brainstorm-wide](brainstorm-wide.md) W5 |
+| 위치 도착 음성 편지 | 특정 장소 도착 시 가족 음성 메시지 재생 | 21 | | [brainstorm-wide](brainstorm-wide.md) W8 |
+| 졸음쉼터 낮잠 모드 | 정확히 깨워주는 파워냅 | 21 | 제어 SDK 준비 중 | [brainstorm-wide](brainstorm-wide.md) W9 |
+| 주차장 10분 | 퇴근 후 차 안 혼자만의 시간 | 19 | | [brainstorm-panel](brainstorm-panel.md) I8 |
+| 길 위의 해설사 | 지나가는 곳의 이야기 오디오 가이드 | 19 | 폰으로도 가능, 해외 유사 앱 있음 | [brainstorm-panel](brainstorm-panel.md) I3 |
+| 동승자 게임 | 차량 신호가 게임 이벤트가 되는 게임 | 19 | 게임 유도 금지 정책 리스크 | [idea-scorecard](idea-scorecard.md) D |
+| 도착 알림 공유 | 기다리는 가족에게 위치·도착 시간 공유 (인터뷰 #1) | 17 | 카카오내비에 있음 | [idea-scorecard](idea-scorecard.md) E |
+| 주차 중 대기 시간 | 학원 라이딩·수행기사 대기 시간 활용 | 17 | 폰으로도 가능 | [persona-panel](persona-panel.md) G |
+| 핸들 컨트롤러 게임 | P단에서 실제 핸들·브레이크로 하는 게임 | 미채점 | 테슬라 아케이드에 있음 | [youtube 4절](youtube-creators.md) |
+
+## 피해야 할 것 (이미 있거나 공식 예시)
+- 공식 예시: 음성 메모, 안전운전 점수(개발자 세션 샘플 앱), 배달 동선, 이상징후 알림
+- 이미 있음: 창밖동화(현대차 공모전 대상), 노래방, Xbox 게임, 충전 남은 시간 맞춤 콘텐츠(LG U+), 펫 케어·차박 모드, 도착 시간 공유(카카오내비), 핸들 레이싱 게임(테슬라)

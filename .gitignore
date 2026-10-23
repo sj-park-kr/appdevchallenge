@@ -1,0 +1,11 @@
+# Env
+.env
+.env.*
+!.env.example
+
+# Harness
+.claude/settings.local.json
+
+# OS / Editor
+.DS_Store
+Thumbs.db

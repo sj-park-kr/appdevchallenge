@@ -11,9 +11,9 @@
 | 지금 할 일 | [TODO.md](TODO.md) |
 | 사용자 불편 (원문 근거) | [research/pain-points.md](research/pain-points.md), 원문은 `research/raw/community/` |
 | 아이디어 현황·점수 | [research/ideas.md](research/ideas.md) (맨 위 = 선정안) → 상세는 표의 "출처" 열 |
-| **선정안 PRD (기능·범위·SDK 매핑)** | [PRD.md](PRD.md) |
+| **선정안 PRD — 차량 반려 캐릭터 (기능·범위·SDK 매핑)** | [PRD.md](PRD.md), 사업성 [research/car-pet-business.md](research/car-pet-business.md) |
+| 보류한 이전 안(법인 운행기록부) | `research/archive/`, [research/fleet-health.md](research/fleet-health.md) |
 | **기획서(접수양식 02장) 원고** | [기획서.md](기획서.md) → `node scripts/fill-form.js`로 docx 생성 |
-| 선정안(법인 차량 건강 기록부) 근거·경쟁·구체화 | [research/fleet-health.md](research/fleet-health.md), 원문은 `research/raw/fleet/` |
 | 다른 탈것·공간에서 빌려온 아이디어 | [research/inspiration.md](research/inspiration.md), 원문은 `research/raw/inspiration/` |
 | 채점 기준 | [research/idea-scorecard.md](research/idea-scorecard.md) |
 | **Pleos 공식 개발 문서(에뮬레이터·주행 규제·심사·디자인·Gleo 연동)** | [research/pleos-dev-guide.md](research/pleos-dev-guide.md), 원문 `research/raw/pleos-docs/` |

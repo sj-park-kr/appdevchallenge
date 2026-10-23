@@ -1,6 +1,7 @@
 # CLAUDE.md
 
-현대차그룹 차량용 앱 공모전(Pleos Connect) 준비 저장소. 아직 코드 없음, 조사 문서만 있음. 개요는 [README.md](README.md).
+현대차그룹 차량용 앱 공모전(Pleos Connect) 준비 저장소. 조사·기획 문서만 있음. 개요는 [README.md](README.md).
+**앱 코드는 별도 레포 `../appdevchallenge-apk`** (심사 제출용 공개 레포 https://github.com/sj-park-kr/appdevchallenge-apk, 사용자 계정으로 커밋).
 
 ## 작업별로 볼 파일
 | 작업 | 먼저 볼 파일 |
@@ -10,9 +11,12 @@
 | 지금 할 일 | [TODO.md](TODO.md) |
 | 사용자 불편 (원문 근거) | [research/pain-points.md](research/pain-points.md), 원문은 `research/raw/community/` |
 | 아이디어 현황·점수 | [research/ideas.md](research/ideas.md) (맨 위 = 선정안) → 상세는 표의 "출처" 열 |
+| **선정안 PRD (기능·범위·SDK 매핑)** | [PRD.md](PRD.md) |
+| **기획서(접수양식 02장) 원고** | [기획서.md](기획서.md) → `node scripts/fill-form.js`로 docx 생성 |
 | 선정안(법인 차량 건강 기록부) 근거·경쟁·구체화 | [research/fleet-health.md](research/fleet-health.md), 원문은 `research/raw/fleet/` |
 | 다른 탈것·공간에서 빌려온 아이디어 | [research/inspiration.md](research/inspiration.md), 원문은 `research/raw/inspiration/` |
 | 채점 기준 | [research/idea-scorecard.md](research/idea-scorecard.md) |
+| **Pleos 공식 개발 문서(에뮬레이터·주행 규제·심사·디자인·Gleo 연동)** | [research/pleos-dev-guide.md](research/pleos-dev-guide.md), 원문 `research/raw/pleos-docs/` |
 | 기능이 SDK로 되는지 | [research/sdk-feasibility.md](research/sdk-feasibility.md), [research/pleos-sdk-api.md](research/pleos-sdk-api.md) |
 | 기획서에 인용할 근거 | [research/voices.md](research/voices.md), [research/youtube-creators.md](research/youtube-creators.md) 2·3절 |
 | 이미 있는 것·중복 확인 | [research/youtube-creators.md](research/youtube-creators.md) "한눈에 보기", [research/ideas.md](research/ideas.md) "피해야 할 것" |

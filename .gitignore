@@ -9,3 +9,4 @@
 # OS / Editor
 .DS_Store
 Thumbs.db
+.claude/tmp/

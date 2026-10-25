@@ -2,7 +2,13 @@
 
 접수 마감: **2026-11-15(일) 23:59** · 진행 상황: [진행상황.md](진행상황.md)
 
-- [ ] **반려 캐릭터 구체화** ← 다음 할 일 ([PRD.md](PRD.md) 10절 미결)
+- [x] ~~전환 검토: 증상 블랙박스~~ → 기록 정보 가치 약해 폐기, **차마고찌 최종 확정** (10/25, [research/pivot-review.md](research/pivot-review.md))
+
+- [ ] **기획서 시나리오를 [research/carmagotchi-scenarios.md](research/carmagotchi-scenarios.md) 기준으로 다시 쓰기** ← 다음 할 일 (기획서 시나리오 3은 주행 중 화면이라 정책 위반, 성장은 km → 함께한 날)
+- [ ] 결정: 펫 종족 이름(가칭 '차마'), 그림체 (시나리오 3절)
+- [ ] 확인: P단에서 앱 자동 표시 가능 여부, `getCurrentLocationInfo` 지역명, 브레이크 API 형태 (시나리오 10절)
+
+- [ ] **반려 캐릭터 구체화** ([PRD.md](PRD.md) 10절 미결)
   - 결정: 캐릭터 정체(동물? 차 요정? 차종별 성격?)·이름·그림체
   - [x] 앱 이름: 한글 **차마고찌**, 영문 **Carmagotchi** (10/23). 남은 것: KIPRIS 상표 검색("다마고치" 유사 여부), APK 파일명용 영문 표기 확정
   - 앱 레포 `../appdevchallenge-apk` docs(PRD v0.2·architecture·ADR 0001~0012)를 반려 캐릭터 기준으로 다시 쓰기 — 지금은 이전 안(운행기록부) 기준. t2 세션 종료됨 → 이 세션 또는 새 세션에서

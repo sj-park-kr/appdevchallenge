@@ -27,4 +27,5 @@
 - SDK는 Vehicle State · NaviHelper만 사용 가능. 다른 SDK 기능은 로드맵으로만.
 - 블라인드 심사: 제출물·README·커밋에 실명·연락처·소속 금지.
 - `.env`, `.env.*`는 읽거나 고치지 않는다(`.env.example`만 허용). `block-env` 훅이 막으면 우회하지 않는다.
+- 응답은 `caveman` 말투다. 훅(`.claude/hooks/caveman.mjs`)이 메인 세션과 모든 서브에이전트에 넣고, 사용자가 "normal mode"라고 할 때까지 유지한다. 문서(`.md`, 기획서)는 보통 문체로 쓴다.
 - 추가 스킬(`mp-*`, `harness`)은 사용자가 `/이름`으로 부를 때만 쓴다. 목록·용도는 [MP-SKILLS.md](MP-SKILLS.md), 업데이트는 `python .claude/scripts/update-mp-skills.py`.

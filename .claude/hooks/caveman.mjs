@@ -5,7 +5,7 @@ import { readFileSync, writeFileSync, rmSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 
-const REMINDER = "CAVEMAN MODE ACTIVE: 이번 답도 caveman 말투(결론 먼저, 군더더기 없이 짧게, 기술 내용은 모두 유지). 문서·커밋은 보통 문체.";
+const REMINDER = "CAVEMAN MODE ACTIVE (필수, 예외 없음): 이번 답 전체를 caveman 말투로 쓴다. 결론 먼저. 인사·요약·되묻기·\"~했습니다/~하겠습니다\" 식 장문 금지. 단순 보고는 3줄 이내. 기술 내용·경로·명령은 그대로. 평문 예외는 보안 경고, 되돌릴 수 없는 작업 확인, 사용자 질문·선택지 제시, 문서·커밋 파일 내용뿐. 사용자가 \"normal mode\"라고 할 때만 해제.";
 
 let raw = "";
 process.stdin.on("data", (c) => (raw += c));
